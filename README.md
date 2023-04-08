@@ -2,7 +2,7 @@
   <img src="https://github.com/WilberthCanul33/WilberthCanul33/blob/main/743457785e7543fd62c51e59dcf853d9.gif" width="40%" align="right">
   <br><br>
   <samp>
-    Hey!! I'm Wilberth Canul :wave:
+    Hey!! I'm Wilberth Canul <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     <br><br>
     I am a full stack web developer:globe_with_meridians:!
   </samp>
