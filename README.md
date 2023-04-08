@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/WilberthCanul33/WilberthCanul33/blob/main/743457785e7543fd62c51e59dcf853d9.gif" width="60%" heigth="80%" align="right">
+  <img src="https://github.com/WilberthCanul33/WilberthCanul33/blob/main/743457785e7543fd62c51e59dcf853d9.gif" width="66%" align="right">
   <br><br>
   <samp>
     Hey!! I'm Wilberth Canul <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
