@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="right">
   <br><br>
   <samp>
-    Hey!! I'm Sarthak Singhal :wave:
+    Hey!! I'm Wilberth Canul :wave:
     <br><br>
     I work as a Web :globe_with_meridians: developer!
   </samp>
