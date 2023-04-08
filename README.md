@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/WilberthCanul33/WilberthCanul33/blob/main/743457785e7543fd62c51e59dcf853d9.gif" width="40%" align="right">
+  <img src="https://github.com/WilberthCanul33/WilberthCanul33/blob/main/743457785e7543fd62c51e59dcf853d9.gif" width="55%" align="right">
   <br><br>
   <samp>
     Hey!! I'm Wilberth Canul <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -8,7 +8,10 @@
   </samp>
 </p>
 
-<p align="center"> 
+<p align="center"><samp>Languages and Tools:</samp></p>
+  <samp><p align="center">Js, Html, Css, FlutterFlow, React, Sass, Node Js, MySQL, Php, Python</p></samp>
+
+<p align="center">
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 
