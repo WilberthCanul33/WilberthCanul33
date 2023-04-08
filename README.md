@@ -4,7 +4,7 @@
   <samp>
     Hey!! I'm Wilberth Canul :wave:
     <br><br>
-    I work as a Web :globe_with_meridians: developer!
+    I am a full stack web developer:globe_with_meridians:!
   </samp>
 </p>
 
@@ -21,4 +21,4 @@
 
 <!--https://icons8.com/icons/set/svg-->
 
-⭐️ From [sarthak77](https://github.com/sarthak77)
+
