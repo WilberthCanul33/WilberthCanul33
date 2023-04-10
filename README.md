@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"><samp>Languages and Tools:</samp></p>
-  <samp><p align="center">Js, Html, Css, FlutterFlow, React, Sass, Node Js, MySQL, Php, Python</p></samp>
+  <samp><p align="center">Js, Html, Css, FlutterFlow, React js, Sass, Node Js, MySQL, Php, Python</p></samp>
 
 <p align="center">
   <i> Let's connect and chat! :incoming_envelope: </i>
