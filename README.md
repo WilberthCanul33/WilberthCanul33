@@ -4,12 +4,12 @@
   <samp>
     Hola, soy Wilberth Canul <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     <br><br>
-    Me gusta del desarrollo web:globe_with_meridians:!
+    Me gusta del desarrollo web!
   </samp>
 </p>
 
-<p align="center"><samp>Languages and Tools:</samp></p>
-  <samp><p align="center">Js, Html, Css, FlutterFlow, React js, Sass, Node Js, MySQL, Php, Python</p></samp>
+<p align="center"><samp>Lenguajes y Habilidades:</samp></p>
+  <samp><p align="center">Js, Html, Css, FlutterFlow, React js, Sass, Node Js, MySQL, Php</p></samp>
 
 <p align="center">
   <i> Mi Gmail: </i>
