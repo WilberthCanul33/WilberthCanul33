@@ -2,9 +2,9 @@
   <img src="https://github.com/WilberthCanul33/WilberthCanul33/blob/main/Imagen_Presentacion.gif" width="62%" align="right">
   <br><br>
   <samp>
-    Hey!! I'm Wilberth Canul <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    Hola, soy Wilberth Canul <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     <br><br>
-    I am a full stack web developer:globe_with_meridians:!
+    Me gusta del desarrollo web:globe_with_meridians:!
   </samp>
 </p>
 
@@ -12,7 +12,7 @@
   <samp><p align="center">Js, Html, Css, FlutterFlow, React js, Sass, Node Js, MySQL, Php, Python</p></samp>
 
 <p align="center">
-  <i> Let's connect and chat! :incoming_envelope: </i>
+  <i> Mi Gmail: </i>
 </p>
 
 <p align="center">
