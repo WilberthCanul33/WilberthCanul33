@@ -4,7 +4,7 @@
   <samp>
     Hola, soy Wilberth Canul <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     <br><br>
-    Me gusta del desarrollo web!
+    Me gusta el desarrollo web!
   </samp>
 </p>
 
